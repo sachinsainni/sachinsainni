@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **three.js,Micro-service**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sachinsainni](https://github.com/ashut123)
+- 👨‍💻 All of my projects are available at [https://github.com/sachinsainni](https://github.com/sachinsainni)
 
 - 💬 Ask me about **Data structure, Java, Javascript,Spring-boot, Docker ,RestApi's,React,next.js**
 
@@ -11,7 +11,7 @@
 
 ## 🚀 LeetCode profile
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsainni&" alt="ashut123" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsainni&" alt="sachinsainni" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
