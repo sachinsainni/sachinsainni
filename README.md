@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **sachins98169@gmail.com**
 
-## 🚀 LeetCode profile
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsainni&" alt="sachinsainni" />
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sachin-saini-3a5455200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SachinSaini" height="30" width="40" /></a>
